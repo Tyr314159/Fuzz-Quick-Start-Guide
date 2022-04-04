@@ -31,6 +31,16 @@ Your share of winning pool = 2000/20000 = 0.1 or 10%\
 The effective pot for the winners = 30000\*0.9 = 27000\
 Your winnings = 0.1\*27000 = 2700 FUZZ\
 \
-Amount returned = original bet + winnings = 4700 FUZZ
+Amount returned = original bet + winnings = 4700 FUZZ\
+\
+Bets take on phases in order to complete
+
+1. Event open - the event has not started yet and bets are open
+2. Event closed - the event has begun and bets are closed
+3. Winner selection - the event has ended and the author now chooses the winner
+4. Dispute window - participants in the event can dispute the results if the event was scored untruthfully
+5. Payout - when a consensus is reached on the results of the event the author can initiate payout of the event.
 
 ## Become and Author
+
+The most compelling feature of Fuzz Bets is the decentralized authoring of events, meaning anyone can become 'the house'.&#x20;
