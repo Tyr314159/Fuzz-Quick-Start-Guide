@@ -16,4 +16,21 @@ The amount of money you wish to put towards using Fuzz (or any other DAPP on Har
 
 ## Acquire FUZZ
 
-To participate in Fuzz Bets you must have some FUZZ tokens to author your own events or to place bets.
+To participate in Fuzz Bets you must have some FUZZ tokens to author your own events or to place bets. The way to acquire FUZZ is by visiting the decentralized exchange on [fuzz swap](https://swap.fuzz.fi/swap), then swap some of your ONE for FUZZ. You must be careful and always reserves some ONE to pay for the transactions. If you are betting I would recommend keeping at least 5 ONE for these transactions, and if you're authoring I would recommend keeping at least 10 ONE on the side.
+
+## Placing Bets
+
+To participate in an event go to the fuzz bets [dashboard](https://fuzz.fi/FuzzBet) and browse for events you're interested in entering. You will need to complete two transactions for every event you enter, one to approve the event contract to access some of your FUZZ, and the other to submit the amount of FUZZ you want to place on the event. The payout of events on fuzz is a function of your % share of the winning side's pool of fuzz less the 10% commission givent to the author and burning mechanics.\
+\
+Example and event has Side A with 20000 FUZZ bet on it, and Side B with 30000 FUZZ bet on it.\
+Side A wins and your bet was 2000 FUZZ.\
+\
+Your payout is caluclated as follows\
+\
+Your share of winning pool = 2000/20000 = 0.1 or 10%\
+The effective pot for the winners = 30000\*0.9 = 27000\
+Your winnings = 0.1\*27000 = 2700 FUZZ\
+\
+Amount returned = original bet + winnings = 4700 FUZZ
+
+## Become and Author
