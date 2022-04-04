@@ -41,6 +41,12 @@ Bets take on phases in order to complete
 4. Dispute window - participants in the event can dispute the results if the event was scored untruthfully
 5. Payout - when a consensus is reached on the results of the event the author can initiate payout of the event.
 
-## Become and Author
+## Become an Author
 
-The most compelling feature of Fuzz Bets is the decentralized authoring of events, meaning anyone can become 'the house'.&#x20;
+The most compelling feature of Fuzz Bets is the decentralized authoring of events, meaning anyone can become 'the house' and earn commission from the events they create and promote. To author an event you must first create and author profile that is linked to a keybase account and a twitter account; there is a guide in the [fuzz documentation](https://docs.fuzz.fi/fuzzbet/authors/creating-author-profile) to help you through this part.\
+\
+Once your author account is approved you must have 10000 FUZZ per event to put up as collateral to secure the event. This is an important part of the platform because it deters authors from scoring games maliciously, because if they do the 10000 FUZZ is lost and the author's reputation score is slashed. The author reputation score indicates the number of successfully paid out events created by the author, this not only builds trust in those who bet on the author's event but it also gives higher commission payouts to the author [shown here](https://docs.fuzz.fi/fuzzbet/authors/reputation-commission-levels).\
+\
+
+
+Enjoy and have fun!
